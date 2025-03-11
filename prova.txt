@@ -1,6 +1,6 @@
 ciao comeva 
 
-edoa 
-comed
+int edo = 2;
 
-cdfd
+
+int edo = 3;
